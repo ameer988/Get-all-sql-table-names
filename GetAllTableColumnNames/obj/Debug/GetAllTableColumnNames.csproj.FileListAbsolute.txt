@@ -1,0 +1,5 @@
+D:\DATA\SqlTableNamesExample\GetAllTableColumnNames\bin\Debug\GetAllTableColumnNames.exe.config
+D:\DATA\SqlTableNamesExample\GetAllTableColumnNames\bin\Debug\GetAllTableColumnNames.exe
+D:\DATA\SqlTableNamesExample\GetAllTableColumnNames\bin\Debug\GetAllTableColumnNames.pdb
+D:\DATA\SqlTableNamesExample\GetAllTableColumnNames\obj\Debug\GetAllTableColumnNames.exe
+D:\DATA\SqlTableNamesExample\GetAllTableColumnNames\obj\Debug\GetAllTableColumnNames.pdb

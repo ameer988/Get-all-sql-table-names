@@ -1,0 +1,5 @@
+D:\DATA\SqlTableNamesExample\SqlTableNamesExample\bin\Debug\SqlTableNamesExample.exe.config
+D:\DATA\SqlTableNamesExample\SqlTableNamesExample\bin\Debug\SqlTableNamesExample.exe
+D:\DATA\SqlTableNamesExample\SqlTableNamesExample\bin\Debug\SqlTableNamesExample.pdb
+D:\DATA\SqlTableNamesExample\SqlTableNamesExample\obj\Debug\SqlTableNamesExample.exe
+D:\DATA\SqlTableNamesExample\SqlTableNamesExample\obj\Debug\SqlTableNamesExample.pdb
